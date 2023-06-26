@@ -18,7 +18,7 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    <img src="/static/demo.png" alt=""/>
+    <img src="https://raw.githubusercontent.com/T-miracle/nano-monokai-theme/main/resources/static/demo.png" width="360" alt=""/><br>
     A high contrast UI theme based on Monikai spectrum.<br>
     一个基于Monikai spectrum的魔改高对比度UI主题.
   ]]></description>
