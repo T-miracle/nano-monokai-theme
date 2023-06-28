@@ -8,13 +8,13 @@
       "acceleratorSelectionForeground": "#fce566",
       "background": "#222222",
       "borderColor": "#2b2b2b",
-      "disabledBackground": "#1919191",
+      "disabledBackground": "#222222",
       "disabledForeground": "#525053",
       "disabledText": "#525053",
       "focusColor": "#525053",
       "focusedBorderColor": "#fce566",
       "foreground": "#f7f1ff",
-      "inactiveBackground": "#191919",
+      "inactiveBackground": "#222222",
       "inactiveForeground": "#8b888f",
       "infoForeground": "#8b888f",
       "selectionBackground": "#363537",
@@ -41,7 +41,7 @@
         "endBackground": "#363537",
         "endBorderColor": "#363537",
         "foreground": "#fce566",
-        "focusColor": "#fce566",
+        "focusColor": "#a2de49",
         "focusedBorderColor": "#363537",
         "shadowColor": "#363537",
         "startBackground": "#363537",
@@ -90,7 +90,7 @@
         "nonEditableBackground": "#222222"
       },
       "background": "#2b2b2b",
-      "disabledBackground": "#191919",
+      "disabledBackground": "#222222",
       "disabledForeground": "#525053",
       "foreground": "#f7f1ff",
       "modifiedItemForeground": "#fce566",
@@ -154,12 +154,12 @@
       "areaForeground": "#f7f1ff"
     },
     "Editor": {
-      "background": "#191919",
+      "background": "#222222",
       "foreground": "#f7f1ff",
       "shortcutForeground": "#8b888f"
     },
     "EditorPane": {
-      "background": "#191919",
+      "background": "#222222",
       "caretForeground": "#fce566",
       "foreground": "#f7f1ff",
       "inactiveBackground": "#222222",
@@ -220,7 +220,7 @@
       "visitedForeground": "#fce566"
     },
     "List": {
-      "background": "#191919",
+      "background": "#222222",
       "foreground": "#f7f1ff",
       "selectionBackground": "#2b2b2b",
       "selectionForeground": "#fce566",
@@ -267,7 +267,7 @@
     "Notification": {
       "background": "#2b2b2b",
       "borderColor": "#191919",
-      "errorBackground": "#191919",
+      "errorBackground": "#222222",
       "errorBorderColor": "#191919",
       "foreground": "#f7f1ff",
       "MoreButton": {
@@ -321,13 +321,13 @@
       "tagForeground": "#fce566",
       "tagBackground": "#525053",
       "Button": {
-        "installBackground": "#191919",
+        "installBackground": "#222222",
         "installBorderColor": "#191919",
         "installForeground": "#f7f1ff",
-        "installFocusedBackground": "#191919",
+        "installFocusedBackground": "#222222",
         "installFillForeground": "#8b888f",
-        "installFillBackground": "#191919",
-        "updateBackground": "#191919",
+        "installFillBackground": "#222222",
+        "updateBackground": "#222222",
         "updateBorderColor": "#191919",
         "updateForeground": "#f7f1ff"
       },
@@ -356,13 +356,13 @@
       "innerBorderColor": "#222222",
       "Header": {
         "activeBackground": "#222222",
-        "inactiveBackground": "#191919"
+        "inactiveBackground": "#222222"
       },
       "paintBorder": true,
       "separatorForeground": "#f7f1ff",
       "separatorColor": "#222222",
       "Toolbar": {
-        "background": "#191919",
+        "background": "#222222",
         "borderColor": "#2b2b2b"
       }
     },
@@ -402,7 +402,7 @@
     },
     "SearchEverywhere": {
       "Advertiser": {
-        "background": "#191919",
+        "background": "#222222",
         "foreground": "#8b888f"
       },
       "Header": {
@@ -430,7 +430,7 @@
       "separatorColor": "#2b2b2b"
     },
     "SidePanel": {
-      "background": "#191919"
+      "background": "#222222"
     },
     "Slider": {
       "background": "#222222",
@@ -473,10 +473,10 @@
       "underlineColor": "#fce566"
     },
     "Table": {
-      "background": "#191919",
+      "background": "#222222",
       "dropLineColor": "#fce566",
       "dropLineShortColor": "#fce566",
-      "focusCellBackground": "#191919",
+      "focusCellBackground": "#222222",
       "focusCellForeground": "#fce566",
       "foreground": "#f7f1ff",
       "gridColor": "#191919",
@@ -524,7 +524,7 @@
       "selectionForeground": "#fce566"
     },
     "TitlePane": {
-      "background": "#191919",
+      "background": "#222222",
       "Button.hoverBackground": "#525053",
       "inactiveBackground": "#222222",
       "infoForeground": "#8b888f",
@@ -544,7 +544,7 @@
       "onForeground": "#fce566"
     },
     "ToolBar": {
-      "background": "#191919",
+      "background": "#222222",
       "borderHandleColor": "#8b888f",
       "floatingForeground": "#8b888f",
       "foreground": "#f7f1ff"
@@ -585,7 +585,7 @@
       }
     },
     "Tree": {
-      "background": "#191919",
+      "background": "#222222",
       "foreground": "#bab8bd",
       "hash": "#222222",
       "modifiedItemForeground": "#fce566",
@@ -641,20 +641,20 @@
       }
     },
     "Viewport": {
-      "background": "#191919",
+      "background": "#222222",
       "foreground": "#f7f1ff"
     },
     "WelcomeScreen": {
       "background": "#222222",
       "borderColor": "#2b2b2b",
-      "captionBackground": "#191919",
+      "captionBackground": "#222222",
       "captionForeground": "#f7f1ff",
-      "footerBackground": "#191919",
+      "footerBackground": "#222222",
       "footerForeground": "#f7f1ff",
       "headerBackground": "#222222",
       "headerForeground": "#f7f1ff",
       "Projects": {
-        "background": "#191919",
+        "background": "#222222",
         "selectionBackground": "#222222",
         "selectionInactiveBackground": "#222222"
       },
