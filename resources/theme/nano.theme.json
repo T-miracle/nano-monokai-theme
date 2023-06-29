@@ -20,7 +20,7 @@
       "selectionBackground": "#363537",
       "selectionBackgroundInactive": "#363537",
       "selectionForeground": "#fce566",
-      "selectionInactiveBackground": "#363537",
+      "selectionInactiveBackground": "#2b3432",
       "selectionInactiveForeground": "#fce566",
       "separatorColor": "#222222"
     },
@@ -40,7 +40,7 @@
       "default": {
         "endBackground": "#363537",
         "endBorderColor": "#363537",
-        "foreground": "#fce566",
+        "foreground": "#a2de49",
         "focusColor": "#a2de49",
         "focusedBorderColor": "#363537",
         "shadowColor": "#363537",
@@ -239,8 +239,9 @@
       "disabledBackground": "#363537",
       "disabledForeground": "#525053",
       "foreground": "#f7f1ff",
-      "separatorColor": "#222222",
-      "selectionForeground": "#fce566"
+      "separatorColor": "#525053",
+      "selectionForeground": "#fce566",
+      "selectionBackground": "#494d47"
     },
     "MenuBar": {
       "borderColor": "#2b2b2b",
@@ -378,10 +379,10 @@
     },
     "ProgressBar": {
       "background": "#222222",
-      "foreground": "#fce566",
-      "indeterminateEndColor": "#fce566",
-      "indeterminateStartColor": "#fce566",
-      "progressColor": "#fce566",
+      "foreground": "#a2de49",
+      "indeterminateEndColor": "#a2de49",
+      "indeterminateStartColor": "#a2de49",
+      "progressColor": "#a2de49",
       "selectionBackground": "#525053",
       "trackColor": "#525053"
     },
@@ -590,9 +591,10 @@
       "hash": "#222222",
       "modifiedItemForeground": "#fce566",
       "rowHeight": 22,
-      "selectionBackground": "#494d47",
+      "selectionBackground": "#2b3432",
       "selectionForeground": "#fce566",
-      "selectionInactiveBackground": "#222222"
+      "selectionInactiveBackground": "#2b3432",
+      "hoverInactiveBackground": "#2b3432"
     },
     "UiDesigner": {
       "Panel": {
@@ -632,7 +634,9 @@
       "Log": {
         "Commit": {
           "unmatchedForeground": "#8b888f",
-          "currentBranchBackground": "#2b3432"
+          "currentBranchBackground": "#304b3b",
+          "selectionBackground": "#2b3432",
+          "hoveredBackground": "#2b3432"
         }
       },
       "RefLabel": {
@@ -669,17 +673,17 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "##363537",
-      "Checkbox.Background.Disabled.Dark": "##191919",
-      "Checkbox.Background.Selected.Dark": "##363537",
-      "Checkbox.Border.Default.Dark": "##363537",
-      "Checkbox.Border.Disabled.Dark": "##191919",
-      "Checkbox.Border.Selected.Dark": "##363537",
-      "Checkbox.Focus.Thin.Default.Dark": "##363537",
-      "Checkbox.Focus.Thin.Selected.Dark": "##191919",
-      "Checkbox.Focus.Wide.Dark": "##363537",
-      "Checkbox.Foreground.Disabled.Dark": "##8b888f",
-      "Checkbox.Foreground.Selected.Dark": "##f7f1ff"
+      "Checkbox.Background.Default.Dark": "#363537",
+      "Checkbox.Background.Disabled.Dark": "#191919",
+      "Checkbox.Background.Selected.Dark": "#363537",
+      "Checkbox.Border.Default.Dark": "#363537",
+      "Checkbox.Border.Disabled.Dark": "#191919",
+      "Checkbox.Border.Selected.Dark": "#363537",
+      "Checkbox.Focus.Thin.Default.Dark": "#363537",
+      "Checkbox.Focus.Thin.Selected.Dark": "#191919",
+      "Checkbox.Focus.Wide.Dark": "#363537",
+      "Checkbox.Foreground.Disabled.Dark": "#8b888f",
+      "Checkbox.Foreground.Selected.Dark": "#f7f1ff"
     }
   }
 }

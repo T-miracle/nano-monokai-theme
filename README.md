@@ -10,8 +10,16 @@ A high contrast UI theme based on Monikai spectrum.<br>
 <h3>1.0.4</h3>
 <ul>
     <li>
-        <p>Modify the border color of the button when it is focused</p>
-        <p>修改按钮聚焦时的边框颜色</p>
+        <p>Adjust VCS status color</p>
+        <p>VCS状态颜色调整</p>
+    </li>
+    <li>
+        <p>Clearly display dividing lines</p>
+        <p>清晰显示分割线</p>
+    </li>
+    <li>
+        <p>Modify the color of the button when it is focused</p>
+        <p>修改按钮聚焦时的颜色</p>
     </li>
     <li>
         <p>Unify the background color of the window so that the color difference will not be too abrupt</p>
