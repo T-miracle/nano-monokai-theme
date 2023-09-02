@@ -1,9 +1,9 @@
 # Nano Monokai Theme
 
-![](./resources/static/demo.png)
-
 A high contrast UI theme based on Monikai spectrum.<br>
-一款基于Monikai spectrum的魔改高对比度UI主题.
+一款基于Monikai spectrum的魔改高对比度UI主题.<br><br>
+<a href="https://github.com/T-miracle/nano-monokai-theme/issues">CLICK ME FEEDBACK</a><br>
+<a href="https://github.com/T-miracle/nano-monokai-theme/issues">点我反馈</a>
 
 ## Change Notes（更新日志）
 
@@ -12,6 +12,14 @@ A high contrast UI theme based on Monikai spectrum.<br>
     <li>
         <p>Adjust the foreground color of Markdown subitems and ordered lists</p>
         <p>调整Markdown子项与有序列表的前景色</p>
+    </li>
+    <li>
+        <p>Adjust the background color of selected files in the directory tree</p>
+        <p>调整目录树被选中文件的背景色</p>
+    </li>
+    <li>
+        <p>Adjust the font color of ignored files in the directory tree</p>
+        <p>调整目录树忽略文件的字体颜色，</p>
     </li>
 </ul>
 <h3>1.0.4</h3>
