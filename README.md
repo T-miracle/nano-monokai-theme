@@ -7,6 +7,13 @@ A high contrast UI theme based on Monikai spectrum.<br>
 
 ## Change Notes（更新日志）
 
+<h3>1.0.5</h3>
+<ul>
+    <li>
+        <p>Adjust the foreground color of Markdown subitems and ordered lists</p>
+        <p>调整Markdown子项与有序列表的前景色</p>
+    </li>
+</ul>
 <h3>1.0.4</h3>
 <ul>
     <li>
