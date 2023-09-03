@@ -22,16 +22,16 @@
         <option name="FILESTATUS_HIJACKED" value="a9dc76"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6e7066"/>
         <!--被忽略的文件-->
-        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="#a9a9a9"/>
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a9a9a9"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fd971f"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fd971f"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fd971f"/>
         <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="a6e22e"/>
         <!--被版本控制忽略的文件-->
-        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="#6c6c6c"/>
+        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="6c6c6c"/>
         <option name="FILESTATUS_MERGED" value="ab9df2"/>
         <!--被修改文件-->
-        <option name="FILESTATUS_MODIFIED" value="#00d8ef"/>
+        <option name="FILESTATUS_MODIFIED" value="00d8ef"/>
         <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="66d9ef"/>
         <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="66d9ef"/>
         <option name="FILESTATUS_SUPPRESSED" value="6e7066"/>
