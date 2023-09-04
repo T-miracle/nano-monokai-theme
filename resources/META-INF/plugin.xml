@@ -90,7 +90,7 @@
 
     <!-- Product and plugin compatibility requirements.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
-    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="ca0e68b0-1802-4a2a-a26e-31f2d948112b" path="/theme/nano.theme.json"/>

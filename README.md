@@ -2,6 +2,11 @@
 
 A high contrast UI theme based on Monikai spectrum.<br>
 一款基于Monikai spectrum的魔改高对比度UI主题.<br><br>
+
+<p><img alt="" src="screenshot/xml.png"/></p>
+<p><img alt="" src="screenshot/TypeScript.png"/></p>
+<p><img alt="" src="screenshot/java.png"/></p>
+
 <a href="https://github.com/T-miracle/nano-monokai-theme/issues">CLICK ME FEEDBACK</a><br>
 <a href="https://github.com/T-miracle/nano-monokai-theme/issues">点我反馈</a>
 
