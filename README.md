@@ -12,6 +12,17 @@ A high contrast UI theme based on Monikai spectrum.<br>
 
 ## Change Notes（更新日志）
 
+<h3>1.0.6</h3>
+<ul>
+    <li>
+        <p>Slightly highlight popup border color</p>
+        <p>略微高亮弹出窗口边框颜色</p>
+    </li>
+    <li>
+        <p>Slightly fade the background color of selected files in the directory tree</p>
+        <p>略微淡化目录树被选中文件的背景色</p>
+    </li>
+</ul>
 <h3>1.0.5</h3>
 <ul>
     <li>

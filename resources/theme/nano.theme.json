@@ -142,7 +142,7 @@
     "DefaultTabs": {
       "background": "#222222",
       "borderColor": "#222222",
-      "hoverBackground": "#233814",
+      "hoverBackground": "#222222",
       "inactiveUnderlineColor": "#ffe035",
       "underlineColor": "#ffe035",
       "underlinedTabBackground": "#222222",
@@ -168,11 +168,12 @@
       "selectionForeground": "#ffe035"
     },
     "EditorTabs": {
+      "background": "#22222",
       "borderColor": "#2b2b2b",
       "inactiveUnderlineColor": "#ffe035",
       "underlineColor": "#ffe035",
-      "underlinedTabBackground": "#233814",
-      "underlinedTabForeground": "#bab6c0"
+      "underlinedTabBackground": "#3b3b3b",
+      "underlinedTabForeground": "#ffffff"
     },
     "FileColor": {
       "Yellow": "00000000"
@@ -208,8 +209,8 @@
       "background": "#222222",
       "disabledForeground": "#525053",
       "disabledText": "#525053",
-      "foreground": "#8b888f",
-      "infoForeground": "#8b888f",
+      "foreground": "#ffffff",
+      "infoForeground": "#ffffff",
       "selectedForeground": "#ffe035"
     },
     "Link": {
@@ -239,9 +240,9 @@
       "disabledBackground": "#363537",
       "disabledForeground": "#525053",
       "foreground": "#f7f1ff",
-      "separatorColor": "#525053",
+      "separatorColor": "#3f4632",
       "selectionForeground": "#ffe035",
-      "selectionBackground": "#494d47"
+      "selectionBackground": "#3b3b3b"
     },
     "MenuBar": {
       "borderColor": "#2b2b2b",
@@ -352,7 +353,7 @@
         "borderColor": "#222222",
         "foreground": "#ffe035"
       },
-      "borderColor": "#191919",
+      "borderColor": "#3f4632",
       "inactiveBorderColor": "#222222",
       "innerBorderColor": "#222222",
       "Header": {
@@ -591,10 +592,10 @@
       "hash": "#222222",
       "modifiedItemForeground": "#ffe035",
       "rowHeight": 22,
-      "selectionBackground": "#233814",
+      "selectionBackground": "#3a4829",
       "selectionForeground": "#ffe035",
-      "selectionInactiveBackground": "#233814",
-      "hoverInactiveBackground": "#233814"
+      "selectionInactiveBackground": "#3a4829",
+      "hoverInactiveBackground": "#3a4829"
     },
     "UiDesigner": {
       "Panel": {
